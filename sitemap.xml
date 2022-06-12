@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://0xdkxy.github.io/blog/</loc>
+        <loc>https://0xdkxy.github.io/Blog/</loc>
     </url>
     <url>
-        <loc>https://0xdkxy.github.io/blog/hello/</loc>
+        <loc>https://0xdkxy.github.io/Blog/hello/</loc>
         <lastmod>2022-06-12</lastmod>
     </url>
     <url>
-        <loc>https://0xdkxy.github.io/blog/page/1/</loc>
+        <loc>https://0xdkxy.github.io/Blog/page/1/</loc>
     </url>
 </urlset>
