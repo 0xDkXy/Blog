@@ -18,3 +18,7 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
+site_menus = [
+  { url = "https://github.com/0xDkXy", name = "My GitHub" },
+  { url = "https://0xdkxy.github.io/online-cv/" , name = "Online CV"  },
+]
