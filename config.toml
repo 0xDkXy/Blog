@@ -26,5 +26,5 @@ site_menus = [
   { type = "title", name = "Friends" },
   { type = "url", url = "https://www.cnblogs.com/csu-lmw/", name = "妄想" },
   { type = "url", url = "https://csuwangj.github.io/", name = "CSUwangj" },
-  { ytpe = "url", url = "https://blog.maddestroyer.xyz/", name = "Jigsaw" },
+  { type = "url", url = "https://blog.maddestroyer.xyz/", name = "Jigsaw" },
 ]
