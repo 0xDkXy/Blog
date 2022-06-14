@@ -19,6 +19,11 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 site_menus = [
-  { url = "https://github.com/0xDkXy", name = "My GitHub" },
-  { url = "https://0xdkxy.github.io/online-cv/" , name = "Online CV"  },
+  { type = "title", name = "More About Me" },
+  { type = "url", url = "https://github.com/0xDkXy", name = "My GitHub" },
+  { type = "url", url = "https://0xdkxy.github.io/online-cv/" , name = "Online CV"  },
+  { type = "title", name = "Friends" },
+  { type = "url", url = "https://www.cnblogs.com/csu-lmw/", name = "妄想" },
+  { type = "url", url = "https://csuwangj.github.io/", name = "CSUwangj" },
+  { ytpe = "url", url = "https://blog.maddestroyer.xyz/", name = "Jigsaw" },
 ]
