@@ -18,6 +18,7 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
+solar_theme = "dark"
 site_menus = [
   { type = "title", name = "More About Me" },
   { type = "url", url = "https://github.com/0xDkXy", name = "My GitHub" },
