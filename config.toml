@@ -27,4 +27,5 @@ site_menus = [
   { type = "url", url = "https://www.cnblogs.com/csu-lmw/", name = "妄想" },
   { type = "url", url = "https://csuwangj.github.io/", name = "CSUwangj" },
   { type = "url", url = "https://blog.maddestroyer.xyz/", name = "Jigsaw" },
+  { type = "url", url = "https://www.cnblogs.com/tiany7/", name = "Tiany7(甜酱)" },
 ]
