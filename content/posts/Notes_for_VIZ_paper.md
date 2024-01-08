@@ -1,11 +1,9 @@
 +++
 title = "Notes of Visualization Papers"
 date = 2022-07-12
+description = "Some notes of reading visualization papers."
 +++
 
-Some notes of reading visualization papers.
-
-<!-- more -->
 
 ## word:
 

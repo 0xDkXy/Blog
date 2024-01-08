@@ -1,11 +1,9 @@
 +++
 title = "About Right and Wrong SnippetZero"
 date = 2023-05-23
+description = "A snippet of chapter Right and Wrong in What does it all mean"
 +++
 
-A snippet of chapter Right and Wrong in What does it all mean
-
-<!-- more -->
 
 The argument that it would be wrong is supposed to give
 him a reson not to do it. But if someone just does not
