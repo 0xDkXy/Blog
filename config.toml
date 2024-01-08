@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://0xdkxy.github.io/blog/"
+base_url = "https://0xdkxy.com/blog/"
 
 # The site title and description; used in feeds by default.
 title = "0xDkXy Space"
